@@ -1,3 +1,5 @@
+Aplicación web creada con React y Next.js como prueba de concepto para registro y autenticación de usuarios, desarrollada con TypeScript, Node.js y Tailwind CSS para una interfaz moderna y funcional.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
